@@ -1,3 +1,5 @@
+# Remarks
+This approach is not recommended anymore, use [vcpkg](https://github.com/microsoft/vcpkg) instead.
 # WebView2SampleCMake
 This repository contains a Win32 Getting Started app that builds with Cmake.
 # Prerequisites
